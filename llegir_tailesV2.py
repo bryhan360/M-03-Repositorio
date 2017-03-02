@@ -52,10 +52,10 @@ while sortir == False:
 
     # Sortim
 	if opcio == 0:
-		print "Adeu! \n"
+		print "Adios! \n"
 		sortir = True
 
-	# Llegim la taula "clientes"
+	# Llegim la taula "productos"
 	elif opcio == 1: 
 		
 		try:			
